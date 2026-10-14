@@ -45,27 +45,29 @@ text, tspan {white-space: pre;}
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">gustavo@workstation</tspan> ----------------------------------
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Linux, Windows </tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Academic</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">B.S. Candidate @ UNICAMP</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Profissional</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Tetra Pak (Monte Mor)</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Dept</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">World Class Manufacturing Systems &amp; AI & Automation </tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Neovim, VS Code, Antigravity </tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming Languages</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Python, TypeScript, Java, Risc V, SQL</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Lib kit</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Three.js, Pandas, WebGL, SAP PM, FastAPI</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Speaks and Read </tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Portuguese, English</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">OBD-II, CAN Bus, ESP 32</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Working on</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">3D Digital Twins, ML/AI </tspan>
-<tspan x="390" y="310">- Contact -------------------------------------------</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">gustavo.sousa.20@hotmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">gustavo-sousa-68396a227</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">pucheranni</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Campinas / Monte Mor, SP</tspan>
-<tspan x="390" y="430">- GitHub Stats --------------------------------------</tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">13+</tspan> {<tspan class="key">Core</tspan>: <tspan class="value">PLIL 3D Twin, SOTA ML, OBD2</tspan>}
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Impact</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">-55% MAE on forecasts (AdaBoost+), WCM Iniciatives</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Closed-Loop</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">SAP GUI Scripting + Virtual Machine</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Production Go-Live @ Tetra Pak</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Linux, Windows</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Academic</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Comp Engineering @ UNICAMP</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">AI &amp; Automation @ Tetra Pak</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Plant</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Monte Mor (BR03) / WCM Systems</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Neovim, Antigravity, VS Code</tspan>
+<tspan x="390" y="150">- Tech Stack ----------------------------------------</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Python, TypeScript, RISC-V, SQL</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Three.js, WebGL, FastAPI, SAP PM</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Data &amp; ML</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">PyTorch, Pandas, Scikit-Learn</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Hardware</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">CAN Bus, OBD-II, ESP32, IoT</tspan>
+<tspan x="390" y="250">- Core Projects -------------------------------------</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Digital Twin</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PLIL 3D (PRIN16 / PRIN17 / LAMI)</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Shopfloor MES</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">V4 Hub, Andon TV &amp; Retrabalho</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Edge ML</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">NoiseCar Audio ML, CAN/OBD-II</tspan>
+<tspan x="390" y="330">- Impact &amp; Metrics ----------------------------------</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Closed-Loop</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">IW41 Auto-Confirm + IW32 Library</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">ML Accuracy</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">-55% MAE on Forecasts (AdaBoost)</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Quality</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">128/128 Tests Passing (100% TDD)</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Production Go-Live @ Tetra Pak</tspan>
+<tspan x="390" y="430">- Contact &amp; Links -----------------------------------</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">github.com/pucheranni</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">gustavo-sousa-68396a227</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">gustavo.sousa.20@hotmail.com</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Campinas / Monte Mor, SP - BR</tspan>
 </text>
 </svg>
